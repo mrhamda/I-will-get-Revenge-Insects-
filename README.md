@@ -6,15 +6,7 @@ An action adventure game built with Unity, playable directly in your browser.
 
 
 ## About
-A game where you need to beat your highscore from last time and you need to shoot down different types of enemies. The game has different type of abilties and enmies
-
- 
-## Features
- 
-- **In-game shop** — Buy items, powers, different weapons, characters and much more!
-- **Money System**
-- **AdminCode**
-- **Highscore system**
+A game where you need to beat your highscore from last time and you need to shoot down different types of enemies. The game has different type of abilties and enmie
  
 ---
  
